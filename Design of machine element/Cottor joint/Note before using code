@@ -1,0 +1,11 @@
+Read before use... 
+This Python code will give safe design of cotter joint with required load, materialand its material grade. 
+Note : Always enter proper load in newton (N) not in kilo newton (kN) 
+       Always enter proper material using design data book. 
+       Always enter proper material grade using design data book. 
+       If load changes dimention changes. If material changes FOS (Factor of safty also changes), this will change dimention. 
+       Program is designed according to design data book. 
+       
+       
+***  This program is under @copyright do not use without permission. ***
+Thank you!!!
